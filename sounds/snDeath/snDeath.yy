@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snDeath",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.89845806,
+  "exportDir":"",
+  "name":"snDeath",
+  "parent":{
+    "name":"triple T fest",
+    "path":"triple T fest.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snDeath.ogg",
+  "volume":1.0,
+}
